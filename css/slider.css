@@ -1,11 +1,11 @@
 .container {
-    width: 950px;
-    height: 80vh;
+    width: 87vw;
+    height: 81vh;
     overflow: scroll;
 }
 
 .sliders {
-    width: 425%;
+    width: 450%;
     display: flex;
     justify-content: space-between;
 }
