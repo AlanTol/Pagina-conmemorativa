@@ -1,0 +1,22 @@
+.container {
+    width: 950px;
+    height: 80vh;
+    overflow: scroll;
+}
+
+.sliders {
+    width: 425%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    border: 5px solid #fff;
+    max-width: 900px;
+    width: 85vw;
+    height: 80vh;
+    background-color: #fff;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+}
