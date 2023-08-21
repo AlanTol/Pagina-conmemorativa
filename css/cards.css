@@ -1,14 +1,19 @@
-.first {
-    justify-content: space-around;
-    align-items: center;
-}
-
 .head {
     width: 83%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.sliders h1 {
+    font-size: 40px; 
+    text-align: center;
+}
+
+.sliders p {
+    font-size: 22px; 
+    text-align: justify;
 }
 
 .head img {
@@ -18,4 +23,16 @@
 
 .footer {
     width: 83%;
+    display: flex;
+    justify-content: center;
+}
+
+.second img, .third img {
+    width: 50%;
+}
+
+.card h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
 }
