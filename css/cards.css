@@ -17,7 +17,6 @@
 }
 
 .head img {
-    margin-top: 50px;
     width: 100%;
 }
 
@@ -25,6 +24,7 @@
     width: 83%;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .second img, .third img {
@@ -35,4 +35,13 @@
     text-align: center;
     font-size: 30px;
     font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.final img {
+    width: 30%;
+}
+
+.final {
+    justify-content: space-between;
 }

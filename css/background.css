@@ -1,7 +1,8 @@
 .background {
     height: 95vh;
     width: 100%;
-    background-color: #666;
+    background: rgb(51,56,62);
+    background: linear-gradient(180deg, #24262A, #2c2f34);
     display: flex;
     flex-direction: column;
     justify-content: space-around;
